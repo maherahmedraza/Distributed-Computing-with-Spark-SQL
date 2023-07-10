@@ -100,7 +100,7 @@ Spark offers a unified approach to analytics. What does this include? (Select al
 
  **Spark allows analysts, data scientists, and data engineers to all use the same core technology**
 
- Spark is able to connect to data where it lives in any number of sources, unifying the components of a data application
+ **Spark is able to connect to data where it lives in any number of sources, unifying the components of a data application**
 
  **Spark code can be written in the following languages: SQL, Scala, Java, Python, and R**
 
